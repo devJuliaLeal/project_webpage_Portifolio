@@ -1,2 +1,2 @@
 
-<img src="https://user-images.githubusercontent.com/120651477/233207610-e17db4c4-4db0-4c0b-afdc-153e69e0f1cd.png" width=300px align=middle> 
+<img src="https://github.com/devJuliaLeal/project_webpage_Portifolio/issues/1#issue-1675692692" width=300px align=middle> 
